@@ -5,6 +5,6 @@
 <p>MSIT student 👨‍🎓</p>
 <p>Learning ReactJS ⚛️</p>
 <p>Wants to Learn NodeJS</p>
-<a href="https://ifmsthird.me" alt="fmsthird" targe"_blank" rel="noopener noreferrer">
+<a href="https://ifmsthird.me" alt="fmsthird" targe="_blank" rel="noopener noreferrer">
   https://ifmsthird.me
 </a>
